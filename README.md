@@ -1,6 +1,5 @@
-# pingpong-server
+# PingPong Server
 
-To install dependencies:
 
 ```bash
 bun install
